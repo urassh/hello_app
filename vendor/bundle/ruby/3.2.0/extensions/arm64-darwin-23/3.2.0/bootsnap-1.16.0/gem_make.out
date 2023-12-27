@@ -1,0 +1,19 @@
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/urassh/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-yj6nno sitelibdir\=./.gem.20231227-97485-yj6nno clean
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-yj6nno sitelibdir\=./.gem.20231227-97485-yj6nno
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-yj6nno sitelibdir\=./.gem.20231227-97485-yj6nno install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231227-97485-yj6nno/bootsnap
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-yj6nno sitelibdir\=./.gem.20231227-97485-yj6nno clean

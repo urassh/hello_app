@@ -1,0 +1,20 @@
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+/Users/urassh/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-4w8y17 sitelibdir\=./.gem.20231227-97485-4w8y17 clean
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-4w8y17 sitelibdir\=./.gem.20231227-97485-4w8y17
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-4w8y17 sitelibdir\=./.gem.20231227-97485-4w8y17 install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20231227-97485-4w8y17/debug
+
+current directory: /Users/urassh/Documents/Programming/Ruby/hello_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231227-97485-4w8y17 sitelibdir\=./.gem.20231227-97485-4w8y17 clean
